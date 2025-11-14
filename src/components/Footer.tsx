@@ -213,10 +213,10 @@ export function QuoteSection() {
                 Charissma Constructions &amp; Interiors
               </h5>
               <address className="not-italic text-base text-foreground leading-relaxed">
-                No.25, Dr Nair Rd, T. Nagar, Chennai, Tamil Nadu, India
+              186/1A/1B, Kalaignar Karunanidhi Salai, Akkarai, Injambakkam, Chennai, Tamil Nadu 600119
               </address>
               <a
-                href="tel:+918925219614"
+                href="tel:+919384558212"
                 className="block text-primary-foreground underline hover:text-accent-foreground text-sm font-medium"
               >
                 +91-8925219614
