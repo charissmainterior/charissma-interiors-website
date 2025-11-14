@@ -219,7 +219,7 @@ export function QuoteSection() {
                 href="tel:+919384558212"
                 className="block text-primary-foreground underline hover:text-accent-foreground text-sm font-medium"
               >
-                +91-8925219614
+                +91-9384558212
               </a>
               <a
                 href="mailto:info@charissmaconstructions.com"
